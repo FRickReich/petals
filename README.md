@@ -1,5 +1,5 @@
 # petals
-Version: 0.1.0
+Version: 0.1.1
 
 A module that converts a data-file from one format to another.
 
@@ -51,6 +51,7 @@ npm run test
 
 ## Release History
 - 0.1.0 - Initial Release
+- 0.1.1 - Fixed repository link
 
 ## License
 

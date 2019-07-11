@@ -1,6 +1,6 @@
 {
     "name": "petals",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A module that converts a data-file from one format to another.",
     "main": "index.js",
     "scripts": {
@@ -8,10 +8,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/opuscapita/petals"
+        "url": "git://github.com/frickreich/petals"
     },
     "bugs": {
-        "url": "https://github.com/opuscapita/petals/issues"
+        "url": "https://github.com/frickreich/petals/issues"
     },
     "keywords": [],
     "author": "F. Rick Reich <frickreich@gmail.com>",
